@@ -3,11 +3,11 @@ body{
     text-align: center;
 }
 h1{
-    color:aliceblue;
+    color:rgb(107, 3, 3);
 }
 
 h2{
-    color:aliceblue;
+    color:rgb(107, 3, 3);
     font-size: large;
     font-style: italic;  
 }
@@ -15,7 +15,7 @@ h2{
     width:30%;
 }
 h3{
-    color:aliceblue;
+    color:rgb(107, 3, 3);
 }
 p{
     color:darkred
