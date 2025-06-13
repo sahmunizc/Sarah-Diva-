@@ -1,5 +1,5 @@
 body{
-    background-color:firebrick;
+    background-color: lightcoral;
     text-align: center;
 }
 h1{
@@ -18,5 +18,8 @@ h3{
     color:rgb(107, 3, 3);
 }
 p{
-    color:darkred
+    color:darkred;
+}
+p{
+    color:darkred;
 }
