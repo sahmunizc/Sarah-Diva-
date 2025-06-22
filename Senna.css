@@ -18,19 +18,18 @@ h5{
     color:rgb(107,3,3):
 }
 h6{
-    color:rgb(107,3,3):
+    color:rgb(107,3,3);
 }
-h7{
-    color:rgb(107,3,3):
-}
-h8{
-    color:rgb(107,3,3):
-}
-h9{
-    color:rgb(107,3,3):
+p {class="h7"
 }
 p{
-    color:rgb(107,3,3):
+    class="h8"
+}
+p^{
+    class="h9"
+}
+p{
+    color:rgb(107,3,3);
 }
 .imagem{
     width: 30%;
